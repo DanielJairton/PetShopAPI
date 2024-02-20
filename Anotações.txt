@@ -1,0 +1,18 @@
+Anotações
+
+Criação do projeto
+   -api web asp .net
+
+dependencies
+   -Core
+   -Tools
+   -SqlServer
+
+Comandos
+   -Add-Migration CriandoDB3
+      -Cria banco de dados com tabelas do código do Visual Studio(compara o context)
+   -Update-Database
+      -Aualiza para o banco ser criado no SqlServer
+
+
+fiesrecrutamento.com.br
